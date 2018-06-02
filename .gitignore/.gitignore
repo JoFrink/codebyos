@@ -25,7 +25,7 @@ tags
 *.asc
 *.bz2
 *.bzip
-*.db
+#*.db
 *.db.*
 *.deb
 *.dmg
